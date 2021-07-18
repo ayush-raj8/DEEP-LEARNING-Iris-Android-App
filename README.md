@@ -2,15 +2,15 @@
 The model was trained in python language on jupyter notebook and then deep learning model was integrated with android app ( Kotlin )
 
 ## Views from smartphone
-### App Icon
+## App Icon
 <p align="center">
   <img src="https://github.com/ayush-raj8/DEEP-LEARNING-Iris-Android-App/blob/main/readme_res/app_icon_in_mobile.jpeg">
 </p>
-### Form GUI for Data Input
+## Form GUI for Data Input
 <p align="center">
   <img src="https://github.com/ayush-raj8/DEEP-LEARNING-Iris-Android-App/blob/main/readme_res/form.jpeg">
 </p>
-### Prediction after value has been entered
+## Prediction after value has been entered
 <p align="center">
   <img src="https://github.com/ayush-raj8/DEEP-LEARNING-Iris-Android-App/blob/main/readme_res/predictions.jpeg">
 </p>
