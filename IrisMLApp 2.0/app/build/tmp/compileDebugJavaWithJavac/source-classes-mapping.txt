@@ -1,0 +1,6 @@
+com/example/irismlapp/BuildConfig.java
+ com.example.irismlapp.BuildConfig
+com/example/irismlapp/ml/Iris.java
+ com.example.irismlapp.ml.Iris
+ com.example.irismlapp.ml.Iris$1
+ com.example.irismlapp.ml.Iris$Outputs

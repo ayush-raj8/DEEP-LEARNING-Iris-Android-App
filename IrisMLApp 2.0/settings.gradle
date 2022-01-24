@@ -1,0 +1,2 @@
+rootProject.name = "Iris ML App"
+include ':app'
