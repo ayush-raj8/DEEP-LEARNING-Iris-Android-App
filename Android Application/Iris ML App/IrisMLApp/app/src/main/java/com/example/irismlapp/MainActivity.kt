@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
                 var v4: Float = ed4.text.toString().toFloat();
 
                 var byteBuffer: ByteBuffer = ByteBuffer.allocateDirect(4 * 4);
+                byteBuffer.order(ByteOrder.nativeOrder())
                 byteBuffer.putFloat(v1)
                 byteBuffer.putFloat(v2)
                 byteBuffer.putFloat(v3)
