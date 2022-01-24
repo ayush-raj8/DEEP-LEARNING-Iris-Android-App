@@ -22,3 +22,10 @@ The model was trained in python language on jupyter notebook and then deep learn
 <p align="center">
   <img src="https://github.com/ayush-raj8/DEEP-LEARNING-Iris-Android-App/blob/main/readme_res/error_handling.jpeg">
 </p>
+
+## Iris ML App 2.0
+<p> Better UI (cardview , wave background & gradient background) <p>
+<p> Aim of app as title of page <p>
+ <p align="center">
+  <img src="https://github.com/ayush-raj8/DEEP-LEARNING-Iris-Android-App/blob/main/readme_res/iris-ml-app 2.0.jpeg">
+</p>
